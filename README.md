@@ -1,4 +1,4 @@
-# MrQR — QR Forms for Field Teams
+# MrQR - QR Forms for Field Teams
 
 MrQR helps construction, facilities maintenance, and cleaning teams connect
 physical places and equipment to useful digital workflows. Create QR codes that
